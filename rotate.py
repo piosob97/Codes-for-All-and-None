@@ -1,7 +1,7 @@
 import numpy as np
 import sys
 
-# this is a code for rotating an XYZ file over an arbitrary degree
+# this is a code for rotating an XYZ file over an arbitrary degree [phi_x, phi_y, phi_z]
 # the syntax is: python<python_version> rotate.py <filename> <phi_x> <phi_y> <phi_z>
 # the result is the XYZ file of the rotated molecule printed out on a screen 
 
